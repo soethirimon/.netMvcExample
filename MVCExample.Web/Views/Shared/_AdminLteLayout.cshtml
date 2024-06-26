@@ -1,0 +1,33 @@
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MVC Example</title>
+    <link rel="icon" href="~/381082.JPEG"/>
+    @await Html.PartialAsync("_Styles")
+
+</head>
+<body class="hold-transition sidebar-mini layout-fixed  layout-navbar-fixed layout-footer-fixed">
+<div class="wrapper">
+
+    <div class="preloader flex-column justify-content-center align-items-center">
+
+    </div>
+
+    @await Html.PartialAsync("_Header")
+
+    @await Html.PartialAsync("_MainSidebar")
+
+    <div class="content-wrapper">
+        @RenderBody()
+    </div>
+
+    @await Html.PartialAsync("_Footer")
+
+    @await Html.PartialAsync("_Scripts")
+    @RenderSection("Scripts", required: false)
+</div>
+</body>
+</html>

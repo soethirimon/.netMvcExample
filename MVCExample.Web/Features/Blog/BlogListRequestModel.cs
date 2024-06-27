@@ -7,3 +7,4 @@ namespace MVCExample.Web.Features.Blog
         public DataTableRequest DataTableRequest { get; set; }
     }
 }
+

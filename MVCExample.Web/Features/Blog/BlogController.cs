@@ -47,11 +47,12 @@ public partial class BlogController : BaseController
             }
 
             BlogDataModel data = model.Change();
-
+                
             if (await _iBlogService.IsDuplicate(data))
             {
                 TempData["Message"] = "Error! Blog is already created !";
                 return RedirectToAction(nameof(CreateBlog), model);
+                
             }
 
             int result = await _iBlogService.CreateBlog(data);

@@ -9,77 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCExample.Web
 build_property.RootNamespace = MVCExample.Web
-build_property.ProjectDir = D:\MVC .Net\mvc-example-dot-net-core-master\MVCExample\MVCExample.Web\
+build_property.ProjectDir = D:\mvc\.netMvcExample\MVCExample.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\MVC .Net\mvc-example-dot-net-core-master\MVCExample\MVCExample.Web
+build_property.MSBuildProjectDirectory = D:\mvc\.netMvcExample\MVCExample.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Blog/CreateBlog.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Blog/CreateBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDcmVhdGVCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Blog/EditBlog.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Blog/EditBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0QmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Blog/Index.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Blog/Modals.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Blog/Modals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xNb2RhbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Home/Index.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Home/Privacy.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/Error.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_AdminLteLayout.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_AdminLteLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkx0ZUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_Footer.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_Header.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_Layout.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_MainSidebar.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_MainSidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluU2lkZWJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_Scripts.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_Scripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_Styles.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_Styles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHlsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/_ViewImports.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Student/CreateStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGVTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MVC .Net/mvc-example-dot-net-core-master/MVCExample/MVCExample.Web/Views/_ViewStart.cshtml]
+[D:/mvc/.netMvcExample/MVCExample.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

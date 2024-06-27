@@ -4,7 +4,6 @@ namespace MVCExample.Web.Features;
 
 public static class ChangeModel
 {
-
     public static BlogDataModel Change(this BlogRequestModel model)
     {
         if (model == null) return new BlogDataModel();
@@ -34,5 +33,4 @@ public static class ChangeModel
 
         return model;
     }
-    
 }

@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Student\EditStudent.cshtml" />
     <_ContentIncludedByDefault Remove="wwwroot\theme\plugins\bootstrap-slider\bootstrap-slider.js" />
     <_ContentIncludedByDefault Remove="wwwroot\theme\plugins\bootstrap-slider\bootstrap-slider.min.js" />
     <_ContentIncludedByDefault Remove="wwwroot\theme\plugins\bootstrap-slider\css\bootstrap-slider.css" />
@@ -951,6 +952,18 @@
 
   <ItemGroup>
     <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Student\EditStudent.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Student\EditStudent.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Student\EditStudent.cshtml" />
   </ItemGroup>
 
 </Project>

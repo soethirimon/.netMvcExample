@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MVCExample.Web.EFDbContext;
 using MVCExample.Web.Features.Blog;
+using MVCExample.Web.Features.Student;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,7 @@ builder.Services.AddDbContext<AppDbContext>(
         )
 );
 builder.Services.AddScoped<IBlogService,BlogService>();
+builder.Services.AddScoped<IStudentService,StudentService>();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddControllersWithViews();
 
